@@ -1,7 +1,7 @@
 # __KodOff__
 
 ## Project URL
-http://kodoff.io
+http://kodoff.io (currently inactive)
 
 ## Project Video URL 
 
